@@ -599,7 +599,104 @@
         "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
       }
     },
+     {
+      "key": "爱看4K",
+      "name": "✨爱看4K短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://wo.ikan4k.com/index.php/vod/show/id/31.html",
+        "二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]",
+        "数组": "module-item-pic&&module-item\"",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "副标题": "✨+item-text\">&&<",
+        "线路数组": "dropdown&&</div>",
+        "线路标题": "✨乐哥推荐✨+<span>&&</+【共+<small>&&<+集】",
+        "播放数组": "id=\"sort-item&&</div>",
+        "播放列表": "<a&&a>",
+        "播放链接": "href=\"&&\"",
+        "播放标题": "✨+<span>&&</",
+        "搜索模式": "1",
+        "搜索url": "https://wo.ikan4k.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "简介": "✨指间的黑客为您介绍剧情✨+vod_content\">&&</span>",
+        "分类url": "https://wo.ikan4k.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+        "分类": "女频恋爱$32#反转爽剧$33#脑洞悬疑$34#年代穿越$35#古装仙侠$36#现代都市$37"
+      }
+    },
     {
+      "key": "✨影梦短剧✨",
+      "name": "✨影梦短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/影梦短剧.json"
+    },
+    {
+      "key": "✨猎手✨",
+      "name": "✨猎手短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/猎手短剧.json"
+    },
+    {
+      "key": "✨安迪短剧✨",
+      "name": "✨安迪短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/安迪短剧.json"
+    },
+    {
+      "key": "✨妖狐短剧✨",
+      "name": "✨妖狐短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/妖狐短剧.json"
+    },
+    {
+      "key": "✨555短剧✨",
+      "name": "✨555短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/555短剧.json"
+    },
+    {
+      "key": "✨PTT短剧✨",
+      "name": "✨PTT短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/PTT短剧.json"
+    },
+    {
+      "key": "✨理理短剧✨",
+      "name": "✨理理短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/理理短剧.json"
+    },
+   {
       "key": "csp_Bili",
       "name": "🅱️哔哩哔哩",
       "type": 3,
