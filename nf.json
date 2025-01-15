@@ -637,6 +637,36 @@
       "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/影梦短剧.json"
     },
     {
+      "key": "河马短剧",
+      "name": "河马短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/xyq/blob/main/XYQHiker/河马短剧.json"
+    },
+    {
+      "key": "爱你短剧",
+      "name": "爱你短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/xyq/blob/main/XYQHiker/爱你短剧.json"
+    },
+    {
+      "key": "短剧屋",
+      "name": "短剧屋",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/xyq/blob/main/XYQHiker/短剧屋.json"
+    },
+    {
       "key": "✨猎手✨",
       "name": "✨猎手短剧✨",
       "type": 3,
