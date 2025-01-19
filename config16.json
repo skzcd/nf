@@ -9,7 +9,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "type": 1,
-      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/妖狐短剧.json"
+      "ext": "https://ghproxy.cc/https://github.com/skzcd/nf/blob/main/sub/妖狐短剧.json"
     },
     {
       "key": "555短剧",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "type": 1,
-      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/555短剧.json"
+      "ext": "https://ghproxy.cc/https://github.com/skzcd/nf/blob/main/sub/555短剧.json"
     },
     {
       "key": "理理短剧",
@@ -27,7 +27,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "type": 1,
-      "ext": "https://github.moeyy.xyz/https://github.com/skzcd/nf/blob/main/sub/理理短剧.json"
+      "ext": "https://ghproxy.cc/https://github.com/skzcd/nf/blob/main/sub/理理短剧.json"
     },
     {
       "key": "76489ae3-c843-35a2-860b-58868e8ee4cd",
@@ -771,58 +771,58 @@
     {
       "key": "drpy_js_豆瓣",
       "name": "豆瓣[js]",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷[js]",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾云驾雾[js]",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果[js]",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"
     },
     {
       "key": "JS哔哩直播",
       "name": "哔哩直播[js]",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/哔哩直播.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/哔哩直播.js"
     },
     {
       "key": "DRJS_虎牙",
       "name": "虎牙直播(JS)",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/虎牙直播.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/虎牙直播.js"
     },
     {
       "key": "csp_LocalFile",
@@ -1437,42 +1437,42 @@
     {
       "key": "虎牙直播",
       "name": "虎牙直播",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/虎牙直播.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/虎牙直播.js"
     },
     {
       "key": "斗鱼直播",
       "name": "斗鱼直播",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js"
     },
     {
       "key": "有声小说吧",
       "name": "有声小说吧",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/有声小说吧.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/有声小说吧.js"
     },
     {
       "key": "JRKAN直播",
       "name": "JRKAN直播",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"
     },
     {
       "key": "88看球",
       "name": "88看球",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
+      "api": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
       "search": 0,
       "type": 7,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"
+      "ext": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"
     },
     {
       "key": "酷奇MV",
@@ -5826,7 +5826,7 @@
     },
     {
       "name": "Yoursmile",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
+      "url": "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt",
       "type": "remote",
       "epg": "http://epg.51zmt.top:8000/api/diyp/ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -5875,7 +5875,7 @@
     },
     {
       "name": "zby",
-      "url": "https://github.moeyy.xyz/https://github.com/skzcd/tv-zby/blob/master/output/result.txt",
+      "url": "https://ghproxy.cc/https://github.com/skzcd/tv-zby/blob/master/output/result.txt",
       "type": "remote",
       "epg": "",
       "logo": ""
