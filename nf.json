@@ -647,6 +647,16 @@
       "ext": "https://ghproxy.cc/https://github.com/skzcd/nf/blob/main/sub/猎手短剧.json"
     },
     {
+      "key": "✨红果✨",
+      "name": "✨红果短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.cc/https://github.com/skzcd/nf/blob/main/sub/红果短剧.json"
+    },
+    {
       "key": "✨河马✨",
       "name": "✨河马短剧✨",
       "type": 3,
