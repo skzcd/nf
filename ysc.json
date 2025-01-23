@@ -1,9 +1,9 @@
 {
  "urls" : [  {
-    "url" : "https://ghproxy.cc/https://raw.github.com/skzcd/nf/main/nf.json",
+    "url" : "https://ghproxy.cc/https://raw.githubusercontent.com/skzcd/nf/main/nf.json",
     "name" : "🥞自用"
   }, {
-      "url" : "https://ghproxy.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+    "url" : "https://ghproxy.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
     "name" : "🦐fongmi"
   }, {
     "url" : "https://ghproxy.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
@@ -54,7 +54,7 @@
     "url" : "https://mi.mpanso.me/DEMO.json",
     "name" : "🦐小米"
   }, {
-    "url" : "https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+    "url" : "https://ghproxy.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
     "name" : "🦐南风"
   }, {
     "url" : "https://9877.kstore.space/FourDS/movie.json",
