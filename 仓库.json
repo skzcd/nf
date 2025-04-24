@@ -1,0 +1,32 @@
+{
+ "storeHouse": [
+  {
+   "sourceName": "🌹我的仓库🌹",
+   "sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/skzcd/nf/main/ysc.json"
+  },
+  {
+   "sourceName": "🌹毒盒多仓（主）🌹",
+   "sourceUrl": "https://tv.youdu.fan:666"
+  },
+  {
+   "sourceName": "🌹影用仓库🌹",
+   "sourceUrl": "http://tv.weidonglong.com/ysc5.json"
+  },
+  {
+   "sourceName": "🌹欧歌主仓库🌹",
+   "sourceUrl": "https://xn--dkw0c.e.nxog.top/nxog/ou1.php?b=欧歌"
+  },
+  {
+   "sourceName": "🌹欧歌备1仓库🌹", 
+   "sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=欧歌"
+  },
+  {
+   "sourceName": "🌷欧歌备2仓库🌷",
+   "sourceUrl": "https://3.nxog.eu.org/nxog/ou1.php?b=欧歌"
+  },
+  {
+   "sourceName": "☘️欧歌本地肋手仓库☘️", 
+   "sourceUrl": "clan://localhost/tvbox/dc.txt"
+  }
+ ]
+}
