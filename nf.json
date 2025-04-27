@@ -277,6 +277,14 @@
 		}   
 	}],
    "lives":[ {
+      "name": "zby-ipv4",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/skzcd/tv-zby/master/output/ipv4/result.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },{
       "name": "zby",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/skzcd/tv-zby/master/output/result.m3u",
