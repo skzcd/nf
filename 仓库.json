@@ -2,6 +2,14 @@
  "storeHouse": [
   {
    "sourceName": "🌹我的仓库🌹",
+   "sourceUrl": "https://gh.ddlc.top/https://github.com/skzcd/nf/blob/main/%E4%BB%93%E5%BA%93.json"
+  },
+  {
+   "sourceName": "🌹我的仓库1🌹",
+   "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/nf/main/ysc.json"
+  },
+  {
+   "sourceName": "🌹我的仓库2🌹",
    "sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/skzcd/nf/main/ysc.json"
   },
   {
