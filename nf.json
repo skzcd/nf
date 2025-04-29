@@ -61,7 +61,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/nf/blob/main/sub/影梦短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/nf/blob/main/sub/影梦短剧.json"
     },
     {
       "key": "✨猎手✨",
@@ -71,7 +71,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/nf/blob/main/sub/猎手短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/nf/blob/main/sub/猎手短剧.json"
     },
     {
             "key": "csp_XBPQ_红果短剧",
@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/nf/blob/main/sub/红果短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/nf/blob/main/sub/红果短剧.json"
     },
     {
       "key": "✨河马✨",
@@ -104,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/xyq/blob/main/XYQHiker/河马短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/xyq/blob/main/XYQHiker/河马短剧.json"
     },
     {
       "key": "✨爱你✨",
@@ -114,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/xyq/blob/main/XYQHiker/爱你短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/xyq/blob/main/XYQHiker/爱你短剧.json"
     },
     {
       "key": "✨短剧屋✨",
@@ -124,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/xyq/blob/main/XYQHiker/短剧屋.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/xyq/blob/main/XYQHiker/短剧屋.json"
     },
     {
       "key": "✨安迪短剧✨",
@@ -134,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/nf/blob/main/sub/安迪短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/nf/blob/main/sub/安迪短剧.json"
     },
     {
       "key": "✨妖狐短剧✨",
@@ -144,7 +144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/nf/blob/main/sub/妖狐短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/nf/blob/main/sub/妖狐短剧.json"
     },
     {
       "key": "✨555短剧✨",
@@ -154,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/nf/blob/main/sub/555短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/nf/blob/main/sub/555短剧.json"
     },
     {
       "key": "✨PTT短剧✨",
@@ -164,7 +164,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/nf/blob/main/sub/PTT短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/nf/blob/main/sub/PTT短剧.json"
     },
     {
       "key": "✨理理短剧✨",
@@ -174,7 +174,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/skzcd/nf/blob/main/sub/理理短剧.json"
+      "ext": "https://gh-proxy.com/https://github.com/skzcd/nf/blob/main/sub/理理短剧.json"
     },
     
 {"key":"csp_New6v","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1},
@@ -279,7 +279,7 @@
    "lives":[ {
       "name": "zby-ipv4",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/skzcd/tv-zby/master/output/ipv4/result.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/tv-zby/master/output/ipv4/result.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -287,7 +287,7 @@
     },{
       "name": "zby",
       "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/skzcd/tv-zby/master/output/result.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/tv-zby/master/output/result.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
